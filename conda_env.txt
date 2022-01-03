@@ -55,6 +55,8 @@ https://repo.anaconda.com/pkgs/main/linux-64/astor-0.8.1-py38h06a4308_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/attrs-21.2.0-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/backcall-0.2.0-pyhd3eb1b0_0.tar.bz2
 https://repo.anaconda.com/pkgs/main/linux-64/blinker-1.4-py38h06a4308_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/boto-2.49.0-py38_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/bz2file-0.98-py38h06a4308_1.conda
 https://repo.anaconda.com/pkgs/main/noarch/cachetools-4.2.2-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/certifi-2021.10.8-py38h06a4308_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/charset-normalizer-2.0.4-pyhd3eb1b0_0.conda
@@ -68,6 +70,7 @@ https://repo.anaconda.com/pkgs/main/linux-64/frozenlist-1.2.0-py38h7f8727e_0.con
 https://repo.anaconda.com/pkgs/main/noarch/gast-0.4.0-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/idna-3.3-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/ipython_genutils-0.2.0-pyhd3eb1b0_1.conda
+https://repo.anaconda.com/pkgs/main/noarch/jmespath-0.10.0-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/joblib-1.1.0-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/kiwisolver-1.3.1-py38h2531618_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/multidict-5.2.0-py38h7f8727e_2.conda
@@ -124,6 +127,7 @@ https://repo.anaconda.com/pkgs/main/linux-64/yarl-1.6.3-py38h27cfd23_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/async-timeout-4.0.1-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/brotlipy-0.7.0-py38h27cfd23_1003.conda
 https://repo.anaconda.com/pkgs/main/linux-64/cryptography-3.4.8-py38hd23ed53_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/cython-0.29.23-py38h2531618_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/jupyter_client-7.1.0-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/markdown-3.3.4-py38h06a4308_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/numpy-base-1.21.2-py38h79a1101_0.conda
@@ -137,10 +141,14 @@ https://repo.anaconda.com/pkgs/main/noarch/oauthlib-3.1.1-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/pyopenssl-21.0.0-pyhd3eb1b0_1.conda
 https://repo.anaconda.com/pkgs/main/linux-64/ipykernel-6.4.1-py38h06a4308_1.conda
 https://repo.anaconda.com/pkgs/main/noarch/urllib3-1.26.7-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/botocore-1.21.41-pyhd3eb1b0_1.conda
 https://repo.anaconda.com/pkgs/main/noarch/requests-2.26.0-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/google-auth-1.33.0-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/requests-oauthlib-1.3.0-py_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/s3transfer-0.5.0-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/boto3-1.18.21-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/google-auth-oauthlib-0.4.4-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/smart_open-1.9.0-py_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/bottleneck-1.3.2-py38heb32a55_1.conda
 https://repo.anaconda.com/pkgs/main/linux-64/h5py-2.10.0-py38hd6299e0_1.conda
 https://repo.anaconda.com/pkgs/main/linux-64/matplotlib-3.5.0-py38h06a4308_0.conda
@@ -153,6 +161,7 @@ https://repo.anaconda.com/pkgs/main/noarch/opt_einsum-3.3.0-pyhd3eb1b0_1.conda
 https://repo.anaconda.com/pkgs/main/linux-64/scipy-1.7.1-py38h292c36d_2.conda
 https://repo.anaconda.com/pkgs/main/noarch/tensorboard-2.4.0-pyhc547734_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/tensorflow-estimator-2.6.0-pyh7b7c402_0.conda
+https://repo.anaconda.com/pkgs/main/linux-64/gensim-4.0.1-py38h2531618_0.conda
 https://repo.anaconda.com/pkgs/main/noarch/keras-preprocessing-1.1.2-pyhd3eb1b0_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/pandas-1.3.4-py38h8c16a72_0.conda
 https://repo.anaconda.com/pkgs/main/linux-64/scikit-learn-1.0.1-py38h51133e4_0.conda
